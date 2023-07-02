@@ -1,0 +1,13 @@
+.wrapper{
+    width: 543px;
+    background-color: white;
+    padding: 40px 40px;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    left: 50%;
+    top: 50%;
+    box-shadow: 0 20px 25px rgba(0,0,0,0.25);
+    border-radius: 8px;
+    display: flex;
+    justify-content: space-between;
+}
